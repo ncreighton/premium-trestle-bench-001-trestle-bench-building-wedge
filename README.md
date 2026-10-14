@@ -1,0 +1,2 @@
+# premium-trestle-bench-001-trestle-bench-building-wedge
+Tired of losing your trestle bench measurements and wedge tenon specs in a pile of sawdust-covered notes? This Notion hub keeps every cut, angle, and joinery detail organized so you can focus on building, not hunting for data.  This template eliminates the chaos of scattered sketches and forgotten dimensions by giving you a single, searchable comma
